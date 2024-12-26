@@ -1,0 +1,8 @@
+opencv-python
+numpy
+threading
+smtplib
+email
+keras
+tensorflow
+ultralytics
