@@ -30,7 +30,7 @@ cd CrimeDetectionMajorProject
 ### Step 2: Install Dependencies
 Install all required dependencies using the provided requirements.txt file:
 
-Copy code
+Run Following Command:-
 pip install -r requirements.txt
 
 ### Step 3: Download Pretrained Models
