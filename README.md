@@ -24,8 +24,8 @@ This project uses AI/ML technologies to enhance existing CCTV networks for real-
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/crime-prevention-ai.git
-cd crime-prevention-ai
+git clone https://github.com/NandeshMM/CrimeDetectionMajorProject.git
+cd CrimeDetectionMajorProject
 
 ### Step 2: Install Dependencies
 Install all required dependencies using the provided requirements.txt file:
